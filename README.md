@@ -10,7 +10,7 @@ Step By Step Command Line On Termux :
 1. pkg install php
 2. pkg install curl
 3. pkg install git
-4. git clone https://github.com/elmlk/Xgofood
+4. git clone https://github.com/elmlk/gofood/
 5. cd Xgofood
 6. php gofood.php
 7. masukin nomor hp
