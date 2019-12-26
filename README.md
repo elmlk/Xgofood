@@ -11,7 +11,7 @@ Step By Step Command Line On Termux :
 2. pkg install curl
 3. pkg install git
 4. git clone https://github.com/elmlk/gofood/
-5. cd gofood
+5. cd Xgofood
 6. php gofood.php
 7. masukin nomor hp
 8. masukin kode verifikasi(OTP)
